@@ -16,7 +16,7 @@ Or follow the instructions below to view it on your local machine.
 
 > 1. Fork this repo
 > 2. Clone your forked copy of this repo
->    - `git clone https://github.com/caxpper/trailMix.git`
+>    - `git clone https://github.com/PDRX91/trailMix.git`
 > 3. Change directory into the newly cloned repo
 >    - `cd trailMix`
 > 4. Install dependencies 
