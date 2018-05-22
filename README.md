@@ -8,22 +8,9 @@ Our application was created for any level of hiker to find a trail either nerby 
 
 ## Project
 
-View this project live [HERE](parkerrebensdorf.com/trailMix/)
+View this project live [HERE](http://trailmix.parkerrebensdorf.com)
 
 Or follow the instructions below to view it on your local machine.
-
-### Setup Instructions
-
-> 1. Fork this repo
-> 2. Clone your forked copy of this repo
->    - `git clone https://github.com/PDRX91/trailMix.git`
-> 3. Change directory into the newly cloned repo
->    - `cd trailMix`
-> 4. Install dependencies 
->    - `npm install`
-> 5. Start dev server
->    - `npm start`
-> 6. Open a browser and navigate to `localhost:3000`
 
 ## Features
 
